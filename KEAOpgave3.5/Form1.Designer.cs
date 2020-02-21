@@ -37,7 +37,7 @@
             // labelInfo
             // 
             this.labelInfo.AutoSize = true;
-            this.labelInfo.Location = new System.Drawing.Point(156, 89);
+            this.labelInfo.Location = new System.Drawing.Point(94, 45);
             this.labelInfo.Name = "labelInfo";
             this.labelInfo.Size = new System.Drawing.Size(0, 25);
             this.labelInfo.TabIndex = 0;
@@ -46,7 +46,7 @@
             // 
             this.textBoxNumber.Location = new System.Drawing.Point(391, 89);
             this.textBoxNumber.Name = "textBoxNumber";
-            this.textBoxNumber.Size = new System.Drawing.Size(100, 31);
+            this.textBoxNumber.Size = new System.Drawing.Size(130, 31);
             this.textBoxNumber.TabIndex = 1;
             // 
             // labelRes
@@ -61,7 +61,7 @@
             // 
             this.buttonCalculate.Location = new System.Drawing.Point(391, 216);
             this.buttonCalculate.Name = "buttonCalculate";
-            this.buttonCalculate.Size = new System.Drawing.Size(110, 39);
+            this.buttonCalculate.Size = new System.Drawing.Size(130, 39);
             this.buttonCalculate.TabIndex = 3;
             this.buttonCalculate.Text = "Calculate";
             this.buttonCalculate.UseVisualStyleBackColor = true;

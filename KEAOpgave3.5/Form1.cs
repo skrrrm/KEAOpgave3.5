@@ -35,7 +35,7 @@ namespace KEAOpgave3._5
                 
             }
 
-            if (result >= 10 && result <= 20)
+            if (result >= 10 && result <= 20) // if number is or over 10 and if number is below 20
                 labelRes.Text = "Correct!";
             else
                 labelRes.Text = "Incorrect!";
